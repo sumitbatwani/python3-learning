@@ -19,6 +19,6 @@ print(days[:2])
 print(days[0:])
 print(days[:4])
 
-# negative index
+# negative index ~ to access elements from list end
 print(days[-1]) # last element of list i.e. thursday
 print(days[-3:-1]) #['tuesday', 'wednesday'] (last element is not inclusive)
